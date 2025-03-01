@@ -1,9 +1,11 @@
 ## Hi there 👋
 
+
+
+[![HaashTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=haashtech)](https://github.com/haashtech/github-readme-stats)
 <!--
 **haashtech/haashtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haashtech)](https://github.com/haashtech/github-readme-stats)
 
 <div>
   <a href="https://github.com/haashtech">
