@@ -1,11 +1,11 @@
-# Hi there! 👋 Welcome to HaashTech
+# Hi there! 👋 Welcome to HAASH.tech
 
-🚀 **Innovating the Future, One Line of Code at a Time** 🚀
+🚀 **Where Innovation Meets Imagination** 🚀
 
 ---
 
 ### 🏢 About Us
-At **HaashTech**, we are passionate about building cutting-edge technology solutions that drive innovation and efficiency. Our mission is to create seamless, scalable, and user-friendly applications that empower businesses and individuals alike.
+At **HAASH.tech**, we are passionate about building cutting-edge technology solutions that drive innovation and efficiency. Our mission is to create seamless, scalable, and user-friendly applications that empower businesses and individuals alike.
 
 🔹 **Industry-Focused Solutions**  
 🔹 **Scalable & Secure Architectures**  
@@ -24,6 +24,7 @@ At **HaashTech**, we are passionate about building cutting-edge technology solut
 ### 🌎 Connect With Us
 💼 **Website:** [www.haash.tech](https://www.haash.tech)  
 📧 **Email:** haashtechnologies@gmail.com  
+📱 **Mobile:** 9846012078  
 <!-- ## 🐦 **Twitter:** [@HaashTech](https://twitter.com/HaashTech) 
 📸 **Instagram:** [@HaashTech](https://instagram.com/HaashTech)  
 💬 **LinkedIn:** [HaashTech](https://linkedin.com/company/haashtech)-->
