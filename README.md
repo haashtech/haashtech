@@ -22,7 +22,7 @@ At **HaashTech**, we are passionate about building cutting-edge technology solut
 ---
 
 ### 🌎 Connect With Us
-💼 **Website:** [www.haashtech.tech](https://www.haashtech.tech)  
+💼 **Website:** [www.haash.tech](https://www.haash.tech)  
 📧 **Email:** haashtechnologies@gmail.com  
 <!-- ## 🐦 **Twitter:** [@HaashTech](https://twitter.com/HaashTech) 
 📸 **Instagram:** [@HaashTech](https://instagram.com/HaashTech)  
