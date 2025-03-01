@@ -3,15 +3,17 @@
 
 
 [![HaashTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=haashtech)](https://github.com/haashtech/github-readme-stats)
-<!--
-**haashtech/haashtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 <div>
   <a href="https://github.com/haashtech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haashtech&count_private=true&theme=cobalt&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haashtech&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+
+<!--
+**haashtech/haashtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 
 Here are some ideas to get you started:
